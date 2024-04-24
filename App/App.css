@@ -1,0 +1,10 @@
+.botao-adicao {
+    background-color: green;
+    color: white;
+    margin-right: 5px;
+}
+  
+.botao-subtracao {
+    background-color: red;
+    color: white;
+}
